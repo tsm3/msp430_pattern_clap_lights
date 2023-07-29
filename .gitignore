@@ -8,3 +8,4 @@ build/
 *.lck
 \#auto_saved_files\#
 *-backups/
+hardware/fp-info-cache
