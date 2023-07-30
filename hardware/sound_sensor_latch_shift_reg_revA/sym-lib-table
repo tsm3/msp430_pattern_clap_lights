@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN54LS76N JK Flip Flop/Latch")(type "KiCad")(uri "C:/Users/vipzs/projects/kicad_libs/digikey_librarian/SN54LS76N/KiCADv6/2023-07-30_00-32-57.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LS05N Hex Inverter")(type "KiCad")(uri "C:/Users/vipzs/projects/kicad_libs/digikey_librarian/SN74LS05N/KiCADv6/2023-07-30_00-26-50.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LS164N SIPO Shift Register")(type "KiCad")(uri "C:/Users/vipzs/projects/kicad_libs/digikey_librarian/SN74LS164N/KiCADv6/2023-07-29_21-25-57.kicad_sym")(options "")(descr ""))
+)
